@@ -15,4 +15,4 @@ The dashboard includes four interactive doughnut charts that offer insights into
 A map chart is incorporated to provide a geographic perspective on sales. It visually represents sales data across different regions, allowing stakeholders to identify regional strengths and opportunities for expansion.
 
 Check out the presentation of the Global Superstore Sales Analysis Dashboard here⤵:
-Link to watch : https://drive.google.com/file/d/1ignAPzu4bzUx081Ym8myZ5Cr3mUMkZt8/view?usp=drive_link
+Link to watch :https://drive.google.com/file/d/1zgoUbSIvplBXIdBACx0S_P_NuZVphXLR/view?usp=drive_link
